@@ -1,0 +1,23 @@
+{
+  "name": "002-gerenciador-de-pedidos-de-lanche",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vitoriaosouza11/002-Gerenciador-de-Pedidos-de-Lanche.git"
+  },
+  "keywords": [],
+  "author": "Vitória Souza",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vitoriaosouza11/002-Gerenciador-de-Pedidos-de-Lanche/issues"
+  },
+  "homepage": "https://github.com/vitoriaosouza11/002-Gerenciador-de-Pedidos-de-Lanche#readme",
+  "dependencies": {
+    "express": "^5.2.1"
+  }
+}
